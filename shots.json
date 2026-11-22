@@ -1,1 +1,18 @@
-[{"name":"1-vault.jpg","query":"?shot=vault&seed=7"},{"name":"2-heist.jpg","query":"?shot=approach&seed=7"},{"name":"3-escape.jpg","query":"?shot=escape&seed=7"},{"name":"4-gallery.jpg","query":"?shot=approach&seed=21"}]
+[
+  {
+    "name": "1-vault.jpg",
+    "query": "?shot=vault&seed=7"
+  },
+  {
+    "name": "2-heist.jpg",
+    "query": "?shot=approach&seed=7"
+  },
+  {
+    "name": "3-escape.jpg",
+    "query": "?shot=escape&seed=7"
+  },
+  {
+    "name": "4-title.jpg",
+    "query": "?shot=start&seed=7"
+  }
+]
